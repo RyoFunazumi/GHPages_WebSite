@@ -10,7 +10,7 @@ permalink: /
 
 
 ---
-![image](assets/sayaka20.jpg)
+![image](/assets/images/sayaka20.jpg)
  
 # 名前
 **さや香**  
