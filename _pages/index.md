@@ -51,3 +51,4 @@ permalink: /
 |2020|準々決勝敗退|  
 |2021|準決勝敗退|  
 |2022|準優勝|
+> https://www.m-1gp.com/combi/1125.html
