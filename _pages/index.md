@@ -10,6 +10,7 @@ permalink: /
 
 
 ---
+![image](/GHPages_WebSite/assets/images/sayaka20.jpg)
 
 # 名前
 **さや香**  
